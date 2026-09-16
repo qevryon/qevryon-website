@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qevryon.in/sitemap.xml
